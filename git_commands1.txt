@@ -1,0 +1,12 @@
+cd git_tutorial/git_sample_repo
+git status - prints the status of git repository
+git init  - to initialise an empty repository
+git add <file1.txt> 
+git commit -m "Add feature XYZ"
+git config -global user.name "<name>" - specify username
+git config -blobal user.email <email>
+git commit -m "<commit_name>"
+git log
+git diff <filename>
+
+
