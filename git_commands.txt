@@ -1,5 +1,5 @@
 cd git_tutorial/git_sample_repo
-git status
+git status - prints the status of git repository
 git init  - to initialise an empty repository
 git add <file1.txt> 
 git commit -m "Add feature XYZ"
